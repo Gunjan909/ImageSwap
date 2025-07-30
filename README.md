@@ -1,7 +1,7 @@
 # ImageSwap: Segment Anything + Diffusion Inpainting
 
 A simple interactive application that combines [Meta AI's Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) with a 
-[Stable Diffusion XL inpainting model](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) to enable **custom image editing**. 
+[Stable Diffusion XL inpainting model](https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1) to enable **custom image editing** by swapping a given image foreground with a new text-specified background (or vice versa). 
 
 This illustrates the potential of chaining together multiple powerful generative AI tools to create something more powerful than any one tool can achieve (similar, in spirit, to Agentic AI with LLMs).
 
